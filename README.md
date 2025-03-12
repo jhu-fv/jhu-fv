@@ -1,12 +1,17 @@
-- 👋 Olá, eu sou a Jhu!
-- 👀 Eu sou apaixonada por astrofísica(sou ex estuante da Federal) e espero um dia fazer parte deste mundo a partir da programação!
-- 🌱 Atualmente estou aprendendo Banco de Dados e Inteligência artificial, mas também tenho FrontEnd com JS e React.
-- 💞️ Estou buscando aprender a colaborar mais no GitHub! Além disso, reoganizando meus projetos em repositórios, no que julgo ser mais interessante pra deixar por aqui!
-- 📫 Você pode chegar até mim através do meu Linkedin (https://www.linkedin.com/in/jhullya-helary/)
-- 😄 Pronome: Ela/Dela
-- ⚡ Curiosidade: Os únicos filmes que assisto são filmes de super-herois. Adoro séries!
+Bem-vindo ao meu GitHub! 
+Olá! Sou uma ex-estudante de astrofísica que encontrou na programação e na ciência de dados uma nova paixão. Atualmente, estou aprimorando minhas habilidades em Análise e Desenvolvimento de Dados com o objetivo de me tornar uma Cientista de Dados.
 
-<!---
-jhu-fv/jhu-fv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+O que você encontrará aqui?
+Projetos de Análise de Dados utilizando Python, R e SQL
+Experimentos com Machine Learning e Inteligência Artificial
+🛠Aplicações de ETL, APIs e Bancos de Dados
+Dashboards e Visualizações interativas
+
+Principais Tecnologias:
+Python (Pandas, NumPy, Seaborn, Matplotlib)
+R (Tidyverse: dplyr, ggplot2, tidyr)
+SQL para manipulação e consulta de dados
+Power BI e Tableau para visualizações
+Flask & React para desenvolvimento de aplicações
+
+Se quiser trocar ideias, colaborar em projetos ou compartilhar conhecimento, fique à vontade para me chamar <3
