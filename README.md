@@ -4,7 +4,7 @@ Olá! Sou uma ex-estudante de astrofísica que encontrou na programação e na c
 O que você encontrará aqui?
 Projetos de Análise de Dados utilizando Python, R e SQL
 Experimentos com Machine Learning e Inteligência Artificial
-🛠Aplicações de ETL, APIs e Bancos de Dados
+Aplicações de ETL, APIs e Bancos de Dados
 Dashboards e Visualizações interativas
 
 Principais Tecnologias:
